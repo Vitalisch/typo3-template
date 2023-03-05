@@ -1,1 +1,4 @@
-# typo3-template
+Sitepackage for the project "Template"
+==============================================================
+
+Add some explanation here.
